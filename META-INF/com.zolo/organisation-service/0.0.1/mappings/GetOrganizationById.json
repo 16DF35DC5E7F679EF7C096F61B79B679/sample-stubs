@@ -1,0 +1,16 @@
+{
+  "id" : "ee5f9993-3d0f-47c7-a713-49ba76b2255b",
+  "request" : {
+    "url" : "/organization/1",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"status\":\"SUCCESS\",\"errors\":[],\"data\":{\"id\":1,\"description\":\"org-description\",\"org_name\":\"org-name\"}}",
+    "headers" : {
+      "Content-Type" : "application/json"
+    },
+    "transformers" : [ "response-template" ]
+  },
+  "uuid" : "ee5f9993-3d0f-47c7-a713-49ba76b2255b"
+}

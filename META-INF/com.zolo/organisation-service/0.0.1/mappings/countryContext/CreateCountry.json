@@ -1,0 +1,16 @@
+{
+  "id" : "5ebede4e-59bc-4f33-8676-4172dfd8a697",
+  "request" : {
+    "url" : "/country",
+    "method" : "POST"
+  },
+  "response" : {
+    "status" : 201,
+    "body" : "{\"status\":\"SUCCESS\",\"errors\":{},\"data\":\"abcd\"}",
+    "headers" : {
+      "Content-Type" : "application/json"
+    },
+    "transformers" : [ "response-template" ]
+  },
+  "uuid" : "5ebede4e-59bc-4f33-8676-4172dfd8a697"
+}

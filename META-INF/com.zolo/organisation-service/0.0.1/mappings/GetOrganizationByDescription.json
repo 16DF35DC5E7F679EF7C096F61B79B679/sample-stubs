@@ -1,0 +1,16 @@
+{
+  "id" : "4919961e-7afa-41ae-8f78-f63333fbea54",
+  "request" : {
+    "url" : "/organization/bifrost/testAccessToken",
+    "method" : "PATCH"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"status\":\"SUCCESS\",\"errors\":{},\"data\":\"abcd\"}",
+    "headers" : {
+      "Content-Type" : "application/json"
+    },
+    "transformers" : [ "response-template" ]
+  },
+  "uuid" : "4919961e-7afa-41ae-8f78-f63333fbea54"
+}
