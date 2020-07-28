@@ -1,7 +1,7 @@
 {
-  "id" : "a599bd40-339a-4c7e-afe3-df8f9ae39ec8",
+  "id" : "e89a41d5-b39d-4bf9-98cd-434d83995777",
   "request" : {
-    "url" : "/country",
+    "url" : "/tax",
     "method" : "POST"
   },
   "response" : {
@@ -12,5 +12,5 @@
     },
     "transformers" : [ "response-template" ]
   },
-  "uuid" : "a599bd40-339a-4c7e-afe3-df8f9ae39ec8"
+  "uuid" : "e89a41d5-b39d-4bf9-98cd-434d83995777"
 }

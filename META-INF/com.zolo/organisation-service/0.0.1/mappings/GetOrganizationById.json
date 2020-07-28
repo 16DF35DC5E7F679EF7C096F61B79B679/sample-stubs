@@ -1,5 +1,5 @@
 {
-  "id" : "1b1a6396-1a10-4498-8620-77a2d7725b3a",
+  "id" : "8787904b-c505-421d-813e-f2a9c4ced5db",
   "request" : {
     "url" : "/organization/1",
     "method" : "GET"
@@ -12,5 +12,5 @@
     },
     "transformers" : [ "response-template" ]
   },
-  "uuid" : "1b1a6396-1a10-4498-8620-77a2d7725b3a"
+  "uuid" : "8787904b-c505-421d-813e-f2a9c4ced5db"
 }

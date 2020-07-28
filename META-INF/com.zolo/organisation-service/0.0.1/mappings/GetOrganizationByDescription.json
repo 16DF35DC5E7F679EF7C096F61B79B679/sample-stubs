@@ -1,5 +1,5 @@
 {
-  "id" : "998fb1e6-36fe-4467-b72f-88b8a6363233",
+  "id" : "1463dfcd-5240-4ff1-9c08-c4fcd39f1dcb",
   "request" : {
     "url" : "/organization/bifrost/testAccessToken",
     "method" : "PATCH"
@@ -12,5 +12,5 @@
     },
     "transformers" : [ "response-template" ]
   },
-  "uuid" : "998fb1e6-36fe-4467-b72f-88b8a6363233"
+  "uuid" : "1463dfcd-5240-4ff1-9c08-c4fcd39f1dcb"
 }
